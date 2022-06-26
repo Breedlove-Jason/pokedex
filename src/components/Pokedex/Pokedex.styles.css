@@ -1,0 +1,12 @@
+.Pokedex-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.Pokedex-title {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
